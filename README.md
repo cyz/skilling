@@ -5,7 +5,7 @@
 Neste repositório você encontrará guias de estudos gratuitos para obter novas habilidades em carreiras, como programação, infraestrutura, segurança, ciência de dados, DevOps, engenharia de dados e outras. 
 
 ## [Acesse os guias de estudos :arrow_right:](/pt-br/)
-Estes guias podem ser utilizados pela sua escola, faculdade ou grupos de estudos e comunidades de tecnologia.
+Estes guias podem ser utilizados pela sua escola, faculdade ou grupos de estudos, startups e comunidades de tecnologia.
 
 
 # Contributing
