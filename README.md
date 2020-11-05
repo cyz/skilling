@@ -1,11 +1,25 @@
 ![Microsoft Learn](https://docs.microsoft.com//en-us/media/learn/home/hero_background_light.svg)
 
-# Guia de Estudos para Cloud & AI | Brasil :books: 
+# Cloud & AI Study Groups :books: 
 
-Neste repositório você encontrará guias de estudos gratuitos para obter novas habilidades em carreiras, como programação, infraestrutura, segurança, ciência de dados, DevOps, engenharia de dados e outras. 
+🇧🇷 Neste repositório você encontrará guias de estudos gratuitos para obter novas habilidades em carreiras, como programação, infraestrutura, segurança, ciência de dados, DevOps, engenharia de dados e outras. 
 
-## [Acesse os guias de estudos :arrow_right:](/pt-br/)
-Estes guias podem ser utilizados pela sua escola, faculdade ou grupos de estudos, startups e comunidades de tecnologia.
+:us: In this repository you will find free study guides to take new tech skills in programming, infrastructure, security, data science, DevOps, data engineering and others.
+
+:mexico: En este repositorio encontrará guías de estudio gratuitas para adquirir nuevas habilidades tecnológicas en programación, infraestructura, seguridad, ciencia de datos, DevOps, ingeniería de datos y otros.
+
+
+## [:arrow_right: Planos de Estudos em Português](/pt-br/)
+## [:arrow_right: Planes de estudio en Español](/es-mx/)
+## [:arrow_right: Study Plans in English](/en/)
+
+___
+
+
+# Global Contributors
+Coming soon
+
+___
 
 
 # Contributing
