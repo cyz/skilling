@@ -6,6 +6,10 @@ O programa Edu for Change foi criado em 2018 com o propósito de acelerar a capa
 
 ## Cursos em vídeo (em português)
 
+| Arquitetura | Desenvolvimento | 
+|--| -- |
+| Maratona AKS: Tudo sobre Kubernetes de A a Z | Cloud Computing & Serverless com JavaScript |
+|<a href="https://channel9.msdn.com/Series/AKS-Bootcamp-From-zero-to-container-hero?WT.mc_id=microsofttech-academic-cyzanon"><img src="https://user-images.githubusercontent.com/2198735/97042438-6c5fa180-1547-11eb-9007-5cf722d19dd9.PNG" alt="drawing" width="500"/> | <a href="https://channel9.msdn.com/Series/Bootcamp-Cloud-Computing-and-Serverless?WT.mc_id=microsofttech-academic-cyzanon"><img src="https://user-images.githubusercontent.com/2198735/97043124-7209b700-1548-11eb-9a03-a068e8f3ac43.PNG" alt="drawing" width="500"/></a> |
 
 ## Guias de Estudos no Microsoft Learn
 
