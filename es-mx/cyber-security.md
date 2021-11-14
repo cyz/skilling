@@ -5,6 +5,22 @@
 Um(a) profissional de Cibersegurança pode trabalhar com segurança no Azure ou no Microsoft 365. No Azure, ele(a) é responsável pela implementação de controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e proteção de dados, aplicativos e redes em ambientes híbridos e em nuvem como parte de uma infraestrutura ponta a ponta. Também efetua a manutenção de postura de segurança, identifica e corrige vulnerabilidades por meio de diversas ferramentas de segurança, implementar a proteção contra ameaças e responde a incidentes de segurança.
 Já no Microsoft 365, ele(a) protege proativamente os ambientes corporativos e híbridos Microsoft 365, implementa e gerencia soluções de segurança e conformidade, responde a ameaças e reforça a governança de dados.
 
+## 💡**Índice de Estudos**
+
+<!-- TOC start -->
+
+- [📚 **Segurança Cibernética (Cyber Security)**](#-segurança-cibernética-cyber-security)
+  - [📕 Objetivos deste plano de estudos](#-objetivos-deste-plano-de-estudos)
+    - [🎯**Certificações Microsoft disponíveis**](#certificações-microsoft-disponíveis)
+      - [📝*Exame AZ-500*](#exame-az-500)
+      - [📝*Exame MS-500*](#exame-ms-500)
+    - [🎯**Treinamentos Gratuitos**](#treinamentos-gratuitos)
+      - [📝*Curso*](#curso)
+        <!-- TOC end -->
+        <!-- TOC --><a name="-segurança-cibernética-cyber-security"></a>
+
+<!-- TOC --><a name="-objetivos-deste-plano-de-estudos"></a>
+
 ## 📕 Objetivos deste plano de estudos
 
 - ✔️ Gerenciar Identidade e acesso
@@ -16,17 +32,27 @@ Já no Microsoft 365, ele(a) protege proativamente os ambientes corporativos e h
 - ✔️ Implementar e gerenciar a proteção de informações
 - ✔️ Gerenciar recursos de governança e conformidade no Microsoft 365
 
+<!-- TOC --><a name="certificações-microsoft-disponíveis"></a>
+
 ### 🎯**Certificações Microsoft disponíveis**
+
+<!-- TOC --><a name="exame-az-500"></a>
 
 #### 📝*Exame AZ-500*
 
 - ✔️[Microsoft Azure Security Technologies](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-500/?WT.mc_id=javascript-50063-gllemos)
 
+<!-- TOC --><a name="exame-ms-500"></a>
+
 #### 📝*Exame MS-500*
 
 - ✔️[Microsoft 365 Security Administration](https://docs.microsoft.com/pt-br/learn/certifications/exams/ms-500/?WT.mc_id=javascript-50063-gllemos)
 
+<!-- TOC --><a name="treinamentos-gratuitos"></a>
+
 ### 🎯**Treinamentos Gratuitos**
+
+<!-- TOC --><a name="curso"></a>
 
 #### 📝*Curso*
 
