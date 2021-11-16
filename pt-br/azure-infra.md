@@ -28,24 +28,24 @@ Já a arquitetura envolve design e implementação de soluções executadas no A
 
 ## 📕 Objetivos deste plano de estudos
 
-- Descrever os conceitos de nuvem
-- Descrever os serviços básicos do Azure
-- Descrever segurança, privacidade, conformidade e confiabilidade
-- Descrever acordos de nível de serviço e preços e ciclos de vida do Azure
-- Identidades e governança do Manage Azure
-- Implementar e gerenciar armazenamento
-- Implantar e gerenciar recursos de computação do Azure
-- Configurar e gerenciar redes virtuais
-- Monitorar e fazer backup de recursos do Azure
-- Implementar e monitorar uma infraestrutura do Azure
-- Implementar soluções de gerenciamento e segurança
-- Implementar soluções para aplicativos
-- Implementar e gerenciar plataformas de dados
-- Projetar o monitoramento
-- Projetar identidade e segurança
-- Projetar armazenamento de dados
-- Projetar a continuidade dos negócios
-- Infraestrutura de projeto
+- ✔️ Descrever os conceitos de nuvem
+- ✔️ Descrever os serviços básicos do Azure
+- ✔️ Descrever segurança, privacidade, conformidade e confiabilidade
+- ✔️ Descrever acordos de nível de serviço e preços e ciclos de vida do Azure
+- ✔️ Identidades e governança do Manage Azure
+- ✔️ Implementar e gerenciar armazenamento
+- ✔️ Implantar e gerenciar recursos de computação do Azure
+- ✔️ Configurar e gerenciar redes virtuais
+- ✔️ Monitorar e fazer backup de recursos do Azure
+- ✔️ Implementar e monitorar uma infraestrutura do Azure
+- ✔️ Implementar soluções de gerenciamento e segurança
+- ✔️ Implementar soluções para aplicativos
+- ✔️ Implementar e gerenciar plataformas de dados
+- ✔️ Projetar o monitoramento
+- ✔️ Projetar identidade e segurança
+- ✔️ Projetar armazenamento de dados
+- ✔️ Projetar a continuidade dos negócios
+- ✔️ Infraestrutura de projeto
 
 <!-- TOC --><a name="certificações-microsoft-disponíveis"></a>
 
