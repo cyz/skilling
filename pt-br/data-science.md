@@ -13,13 +13,18 @@ Aqui estão algumas vantagens da ciência de dados nos negócios:
 
 * [Data Science for Beginners - A Curriculum - inglês e sendo traduzido para português](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 * [Machine Learning for Beginners - A Curriculum - inglês e sendo traduzido para português](https://microsoft.github.io/ML-For-Beginners/#/)
-
+* [Fundamentos da ciência de dados para machine learning - vídeo + Microsoft Learn](https://docs.microsoft.com/pt-br/events/learntv/learnlive-foundations-of-machine-learning/)
+* [Dê seus primeiros passos com o Python](https://docs.microsoft.com/pt-br/learn/paths/python-first-steps/)
+* [Use os fundamentos do Python para resolver mistérios e encontrar respostas](https://docs.microsoft.com/pt-br/learn/paths/python-partnership/)
+* [Descubra a função do Python na exploração do espaço](https://docs.microsoft.com/pt-br/learn/paths/introduction-python-space-exploration-nasa/)
+* [Classificar rochas espaciais usando o Python e a inteligência artificial](https://docs.microsoft.com/pt-br/learn/paths/classify-space-rocks-artificial-intelligence-nasa/)
+* [Explore o espaço com o Python e o Visual Studio Code; inspirado pelo filme da Netflix "A Caminho da Lua"](https://docs.microsoft.com/pt-br/learn/paths/explore-space-using-python/)
 
 ## Certificações Microsoft disponíveis															
-
+* [Exame AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900)
+* [Exame AI-900: Microsoft Azure AI Fundamentals](https://docs.microsoft.com/pt-br/learn/certifications/azure-ai-fundamentals?WT.mc_id=microsofttech-academic-cyzanon)
 * [Exame AI-100: Designing and Implementing an Azure AI Solution](https://docs.microsoft.com/pt-br/learn/certifications/azure-ai-engineer?WT.mc_id=microsofttech-academic-cyzanon)
 * [Exame DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/pt-br/learn/certifications/azure-data-fundamentals?WT.mc_id=microsofttech-academic-cyzanon)
-* [Exame AI-900: Microsoft Azure AI Fundamentals](https://docs.microsoft.com/pt-br/learn/certifications/azure-ai-fundamentals?WT.mc_id=microsofttech-academic-cyzanon)
 * [Exame DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/pt-br/learn/certifications/data-analyst-associate/?WT.mc_id=microsofttech-academic-cyzanon)
 * [Exame DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/pt-br/learn/certifications/azure-database-administrator-associate?WT.mc_id=microsofttech-academic-cyzanon)
 * [Exame DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist?WT.mc_id=microsofttech-academic-cyzanon)
